@@ -1,0 +1,1 @@
+{"path": "annotations.csv", "columns": [{"name": "image", "type": "image"}, {"name": "mask", "type": "image"}]}
